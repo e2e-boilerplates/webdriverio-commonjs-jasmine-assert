@@ -1,4 +1,4 @@
-name: webdriverio-commonjs-jasmine-expect
+name: webdriverio-commonjs-jasmine-assert
 
 on:
   push:

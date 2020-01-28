@@ -1,4 +1,4 @@
-# WebdriverIO: (CommonJS, Jasmine and Expect)
+# WebdriverIO: (CommonJS, Jasmine and Assert)
 
 [![GitHub Actions status | e2e-boilerplates/webdriverio-commonjs-jasmine-assert](https://github.com/e2e-boilerplates/webdriverio-commonjs-jasmine-assert/workflows/webdriverio-commonjs-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplates/webdriverio-commonjs-jasmine-assert/actions?workflow=webdriverio-commonjs-jasmine-assert)
 

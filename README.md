@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/webdriverio-commonjs-jasmine-assert](https://github.com/e2e-boilerplate/webdriverio-commonjs-jasmine-assert/workflows/webdriverio-commonjs-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-commonjs-jasmine-assert/actions?workflow=webdriverio-commonjs-jasmine-assert)
+[![GitHub Actions status | e2e-boilerplate/webdriverio-commonjs-jasmine-assert](https://github.com/e2e-boilerplate/webdriverio-commonjs-jasmine-assert/workflows/webdriverio-commonjs-jasmine-assert/badge.svg)](https://github.com/e2e-boilerplate/webdriverio-commonjs-jasmine-assert/actions?workflow=webdriverio-commonjs-jasmine-assert) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # WebdriverIO Boilerplate
 

@@ -1,12 +1,5 @@
-| referrer                                                                                      | count | uniques |
-| :-------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert                                          | 3     | 2       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/actions                                  | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/actions/runs/61143449                    | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/blob/master/.github/workflows/nodejs.yml | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/blob/master/package.json                 | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/blob/master/spec/sandbox.spec.js         | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/pull/28                                  | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/pull/29                                  | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/runs/526430067                           | 1     | 1       |
-| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/tree/master/.github                      | 1     | 1       |
+| referrer                                                                                | count | uniques |
+| :-------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert                                    | 1     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/blob/master/.github/runs_status.md | 1     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-jasmine-assert/tree/master/.github                | 1     | 1       |
